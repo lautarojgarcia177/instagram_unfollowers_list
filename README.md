@@ -17,3 +17,8 @@ Be sure to select Connections -> Followers and Following
 
 6. You will get a new file "unfollowers" generated with the list of all the accounts that does not follow you back
 
+### How it works
+Its very simple, the script creates 2 arrays from JSON files:
+- array with all the accounts that follow you
+- array with all the accounts that you follow
+Then it compares the arrays, outputing a new array with all the account names that are present in the following array but aren't present in the follow you array
