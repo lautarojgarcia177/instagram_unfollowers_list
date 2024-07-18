@@ -22,4 +22,4 @@ Its very simple, the script creates 2 arrays from JSON files:
 - array with all the accounts that follow you
 - array with all the accounts that you follow
 
-Then it compares the arrays, outputing a new array with all the account names that are present in the following array but aren't present in the follow you array
+Then it compares the arrays, outputing a new array with all the account names that are present in the "you follow" array but aren't present in the "follow you" array
