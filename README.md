@@ -17,7 +17,7 @@ Be sure to select Connections -> Followers and Following
 
 5. Run `node compare.js`
 
-6. You will get a new file "unfollowers" generated with the list of all the accounts that does not follow you back
+6. You will get a new file "unfollowers.json" generated with the list of all the accounts that does not follow you back
 
 ### How it works
 Its very simple, the script creates 2 arrays from JSON files:
