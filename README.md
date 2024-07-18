@@ -1,6 +1,6 @@
 # Get to know the people that does not follow you back on Instagram
 
-## This is a non invasing method, without any risk or third party apps that you are not sure what they do on your device.
+## This is a non-invasing method, without any risk or third party apps that you are not sure what they do on your device.
 
 ### Steps
 1. Ask to download your instagram information in JSON format
